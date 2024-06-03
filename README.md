@@ -2,9 +2,6 @@ The homemade driver expression recognition （HDER） dataset used to test drive
 
 ![图片7](https://github.com/qipeng2000/homemade-driver-emotion-recognition-HDER-dataset/assets/108612973/a33620e0-20c0-4733-becc-ade0a7161301)
 
-Baidu cloud disk：
-Link：https://pan.baidu.com/s/1bvbaMnGZ5SqulfGchJOapw?pwd=ggu3 
-Extraction code：ggu3
 
-If you need to use this dataset, please contact the mailbox for authorization:
+If you need to use this dataset, please get in touch with the mailbox for authorization:
 ts22050044a31@cumt.edu.cn
